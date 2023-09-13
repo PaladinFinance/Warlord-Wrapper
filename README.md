@@ -1,5 +1,7 @@
 # Warlord Wrapper
 
+deploy address : 0x8fEf29604D16987E2a0C8AE1DFbA47495fF4888a
+
 ## Overview
 
 This is a wrapper for the stkWAR token from Warlord.  
